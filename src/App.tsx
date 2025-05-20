@@ -74,7 +74,7 @@ function App() {
 
       <section className="fact__container" id="immigrated">
         <p className="fact__text">
-          Andrew Carnegie immigrated to what is Pittsburgh, Pennsylvania, United
+          Andrew Carnegie immigrated to what is now Pittsburgh, Pennsylvania, United
           States with his parents in 1848 at the age of 12.
         </p>
       </section>
@@ -97,7 +97,7 @@ function App() {
 
       <section className="fact__container" id="dinosaur">
         <p className="fact__text">
-          The dinosaur <i>Diplodocus carnegiei</i> (Hatcher) was named for Carnegie
+          The dinosaur <i>Diplodocus carnegii</i> (Hatcher) was named for Carnegie
           after he sponsored the expedition that discovered its remains in the
           Morrison Formation (Jurassic) of Utah.
         </p>
@@ -140,7 +140,7 @@ function App() {
       <section className="fact__container" id="scottish">
         <p className="fact__text">
           Andrew Carnegie was on vacation in Scotland during the Homestead
-          strike, but put his support behind Frick, who called in some 300
+          Strike, but put his support behind Frick, who called in some 300
           Pinkerton armed guards to protect the plant.
         </p>
       </section>
@@ -171,7 +171,7 @@ function App() {
 
       <section className="fact__container" id="death">
         <p className="fact__text">
-          Carnegie died at age 83 on August 11, 1919, at Shadowbrook, his estate
+          Carnegie died at age 83 on August 11, 1919 at Shadowbrook, his estate
           in Lenox, Massachusetts. He was buried at Sleepy Hollow Cemetery in
           North Tarrytown, New York.
         </p>
@@ -186,7 +186,7 @@ function App() {
 
       <section className="fact__container" id="jobs">
         <p className="fact__text">
-          Ambitious and hard-working, Carnegie had several other jobs including
+          Ambitious and hard-working, Carnegie had several other jobs before making his fortune, including
           a messenger in a telegraph office and secretary and telegraph operator
           for the superintendent of the Pittsburgh division of the Pennsylvania
           Railroad.
