@@ -31,6 +31,7 @@
 .nav__item {
   text-align: left;
   padding: 3px 0;
+  font-size: 0.75rem;
 }
 
 #gave-away {
