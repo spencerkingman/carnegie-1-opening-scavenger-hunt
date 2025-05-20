@@ -3,11 +3,8 @@ import "./App.css";
 function App() {
   return (
     <main>
-      <section className="fact__container">
+      <section className="nav__container">
         <h1>Andrew Carnegie Facts:</h1>
-      </section>
-
-      <section className="nav__container" id="nav">
         <nav>
           <ul>
             <li className="nav__item">

@@ -24,7 +24,8 @@
   margin: 0;
   align-items: left;
   background-color: white;
-  align-items: center;
+  align-items: flex-start;
+  flex-direction: column;
 }
 
 .nav__item {
@@ -82,7 +83,6 @@
   background-color: #ff9800;
   color: rgba(0, 0, 0, 0.8);
 }
-
 #daughter {
   background-color: #ff5722;
   color: rgba(0, 0, 0, 0.8);
